@@ -33,4 +33,14 @@ enum ElementoJson {
 }
 ```
 
-### `ElementoJson::Number()`
+### `ElementoJson::Nulo`
+
+### `ElementoJson::Booleano(bool)`
+
+### `ElementoJson::Numero(Numero)`
+
+### `ElementoJson::Texto(String)`
+
+### `ElementoJson::Array(Vec<ElementoJson>)`
+
+### `ElementoJson::Objeto(HashMap<String, ElementoJson>)`
