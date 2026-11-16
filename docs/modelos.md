@@ -4,15 +4,23 @@ Este archivo documentara todas las clases y sus metodos de este proyecto.
 
 ## `CLI`
 
-### `GetPathJson() -> $str`
+### `GetPathJson() -> String`
 
-### `GetQuery() -> $str`
+### `GetQuery() -> String`
 
 ## `ControladorArchivos`
 
+### `Leer(path: $String) -> String`
+
+### `Escribir(path: $String, texto: $String) -> ()`
+
 ## `Serializador`
 
+### `Convertir(json: ElementoJson) -> String`
+
 ## `Deserializador`
+
+### `Convertir(json: $String) -> ElementoJson`
 
 ## `ElementoJson` y `Numero`
 
