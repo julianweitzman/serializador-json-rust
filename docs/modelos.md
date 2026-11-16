@@ -8,7 +8,11 @@ Este archivo documentara todas las clases y sus metodos de este proyecto.
 
 ### `GetQuery() -> $str`
 
+## `ControladorArchivos`
+
 ## `Serializador`
+
+## `Deserializador`
 
 ## `ElementoJson` y `Numero`
 
