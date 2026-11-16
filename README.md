@@ -5,3 +5,7 @@
 ```bash
 winget install -e --id Rustlang.Rust.GNU --source winget
 ```
+
+## Documentacion
+
+* [Modelos](docs/modelos.md)
