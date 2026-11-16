@@ -2,6 +2,6 @@
 
 ## Instalar rust
 
-´´´bash
+```bash
 winget install -e --id Rustlang.Rust.GNU --source winget
-´´´
+```
