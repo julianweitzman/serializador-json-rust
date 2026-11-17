@@ -56,3 +56,7 @@ enum ElementoJson {
 ### `ElementoJson::Array(Vec<ElementoJson>)`
 
 ### `ElementoJson::Objeto(HashMap<String, ElementoJson>)`
+
+### to_string() -> String
+
+Este metodo convierte un tipo de dato en su formato json. Para estructuras complejas com los Array y los Objetos se serilizara todos sus elementos internos y posteriormente se los uninar en uno solo.
