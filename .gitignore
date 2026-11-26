@@ -17,3 +17,8 @@ GEMINI.md
 /target/
 **/*.rs.bk
 *.pdb
+
+
+# Added by cargo
+
+/target
