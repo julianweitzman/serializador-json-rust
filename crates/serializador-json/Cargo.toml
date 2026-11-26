@@ -1,0 +1,7 @@
+[package]
+name = "serializador-json"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+serializador-json-derive = { path = "../serializador-json-derive" }
